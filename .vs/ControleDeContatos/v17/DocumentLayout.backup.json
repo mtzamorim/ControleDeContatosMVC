@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\ControleDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84ABD92-1D05-4367-A82E-B4CC2ED682E9}|ControleDeContatos.csproj|c:\\users\\mathe\\source\\repos\\controledecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84ABD92-1D05-4367-A82E-B4CC2ED682E9}|ControleDeContatos.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84ABD92-1D05-4367-A82E-B4CC2ED682E9}|ControleDeContatos.csproj|c:\\users\\mathe\\source\\repos\\controledecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A84ABD92-1D05-4367-A82E-B4CC2ED682E9}|ControleDeContatos.csproj|solutionrelative:views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T16:34:00.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\ControleDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Controllers\\ContatoController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:24:40.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
